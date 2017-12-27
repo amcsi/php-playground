@@ -1,0 +1,25 @@
+{
+  "name": "amcsi/php-playground",
+  "description": "Some empty classes with unit tests for each for the purposes of being able to play around with code quickly",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Attila Szeremi",
+      "email": "attila@szeremi.org"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "6.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "amcsi\\playground\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "amcsi\\playground\\Test\\": "test/"
+    }
+  }
+}
