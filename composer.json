@@ -1,6 +1,6 @@
 {
-  "name": "amcsi/php-playground",
-  "description": "Some empty classes with unit tests for each for the purposes of being able to play around with code quickly",
+  "name": "amcsi/playground",
+  "description": "Quick class files with their PHPUnit test files for the purposes of Toptal, Project Euler, HackerRank etc.",
   "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
