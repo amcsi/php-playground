@@ -38,19 +38,4 @@ final class Class2Test extends TestCase
             [],
         ];
     }
-
-    /**
-     * @dataProvider provideTest3
-     */
-    public function test3(): void
-    {
-
-    }
-
-    public function provideTest3()
-    {
-        return [
-            [],
-        ];
-    }
 }
