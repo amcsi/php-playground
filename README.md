@@ -19,4 +19,8 @@ git clone https://github.com/amcsi/php-playground
 composer create-project amcsi/playground pathToProject dev-master
 ```
 
+#### Creating a new test class
 
+```sh
+bin/create.php Class10
+```
