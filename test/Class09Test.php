@@ -5,9 +5,9 @@ namespace amcsi\playground\test;
 
 use PHPUnit\Framework\TestCase;
 
-require_once __DIR__ . '/../src/Class9.php';
+require_once __DIR__ . '/../src/Class09.php';
 
-final class Class9Test extends TestCase
+final class Class09Test extends TestCase
 {
     /**
      * @dataProvider provideTest1

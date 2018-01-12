@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace amcsi\playground;
 
-class Class2
+class Class02
 {
 
 }
